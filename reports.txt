@@ -1,0 +1,28 @@
+Ticket #481
+fixed code by pep8 #correcting #syn ,#pep8 ,#cocatonation 
+
+----------------------------------------------------------------------------
+Ticket #481B
+fixed code by pep8 #correcting #concatonation ,#spaceing
+
+
+----------------------------------------------------------------------------
+Ticket #481C
+fixed code by pep8 #naming ,#whitespace(strip) ,#concatination
+
+
+----------------------------------------------------------------------------
+Ticket #482
+fixed code by pep8 #whitespace(strig) ,#normalizatin ,#comparison operator ,#indentation 
+
+----------------------------------------------------------------------------
+Ticket #482B
+fixed code by pep8 #normlization ,#indentation 
+
+----------------------------------------------------------------------------
+Ticket #483 
+fixed code by pep8 #one import per line #grouped by order 
+
+----------------------------------------------------------------------------
+Ticket #484
+fixed code by pep8 #naming consistency and clarity 
